@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Symptom Tracker</string>
+    <string-array name="names">
+        <item>Fever</item>
+        <item>Nausea</item>
+        <item>Headache</item>
+        <item>Cough</item>
+        <item>Diarrhea</item>
+        <item>Muscle_Ache</item>
+        <item>Smell_taste</item>
+        <item>Breath</item>
+        <item>Tired</item>
+        <item>Sour_Throat</item>
+
+    </string-array>
+</resources>
