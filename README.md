@@ -4,4 +4,4 @@ Heart rate sensing: For heart rate sensing we will utilize the back camera of th
 
 Respiratory rate: For respiratory rate sensing we will utilize the accelerometer or orientation sensor of the smartphone. The user will be asked to lay down and place the smartphone on their chest for a period of 45 seconds. The respiratory rate will be computed from the accelerometer or orientation data. 
 
-[EDIT] :  Check the main branch
+[EDIT] :  The code is in the master branch
